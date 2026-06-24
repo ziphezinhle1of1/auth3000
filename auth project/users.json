@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "username": "zee",
+      "password_hash": "$argon2id$v=19$m=65536,t=3,p=4$Xw6ZLPRMliPJQ7OCYA/yIQ$BtmEjwpEEFuOtGx9UKtskxnJwecta3ZMJjc6kEqyO5g",
+      "totp_secret": "WKHO5662LVCIDWASALMGWQXYZQY35IYP",
+      "failed_attempts": 0,
+      "lockouts": 0,
+      "locked_until": null
+    }
+  ]
+}
